@@ -1,0 +1,4 @@
+student (model)->table migrate
+
+----->id, name, contact, email, father_name, address, city, state, education, dob, doj, status(0-new admission,1-active student,2- passed), 
+
